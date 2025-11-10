@@ -1,0 +1,7 @@
+ {
+    "top": "adder",
+    "files":
+     ["part3/adder/adder.sv"
+      ,"provided/DSP48E1.v"
+    ]
+}

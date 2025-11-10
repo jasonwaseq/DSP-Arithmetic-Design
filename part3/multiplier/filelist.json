@@ -1,0 +1,7 @@
+ {
+    "top": "multiplier",
+    "files":
+     ["part3/multiplier/multiplier.sv"
+      ,"provided/DSP48E1.v"
+    ]
+}
